@@ -1,0 +1,6 @@
+{
+    "mysql.user": "$AZURE_MYSQL_USER",
+    "mysql.passw": "$AZURE_MYSQL_PASSWORD",
+    "mysql.host": "$AZURE_MYSQL_HOST",
+    "mysql.port": "$AZURE_MYSQL_PORT"
+}
